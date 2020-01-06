@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>韦阳的博客</title>
+  <title>申奥的博客</title>
   
   <subtitle>godweiyang</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://godweiyang.com/</id>
   
   <author>
-    <name>韦阳</name>
+    <name>申奥</name>
     
   </author>
   
